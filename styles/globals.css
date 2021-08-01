@@ -1,0 +1,12 @@
+body {
+  background-image: url('../public/background.jpg');
+  background-size: cover;
+  background-position: center;
+}
+.active{
+  border-bottom: 4px solid rgba(110, 216, 150, 0.5);
+  color: rgb(110, 216, 151);
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
