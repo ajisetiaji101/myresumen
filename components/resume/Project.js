@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import Bestah from '../../public/bestah.png'
-import GasDetector from '../../public/GasDetector.jpg'
+import GasDetector from '../../public/gasdetector.jpg'
 
 export default function Project() {
     return (
